@@ -74,42 +74,6 @@ I enjoy building practical applications, exploring new technologies, and continu
 
 ---
 
-## 📂 Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/Rifat-Bin-Alam/dbms">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rifat-Bin-Alam&repo=dbms&theme=default&title_color=1F4E79&icon_color=1F4E79" />
-</a>
-
-<a href="https://github.com/Rifat-Bin-Alam/100-days-of-python">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rifat-Bin-Alam&repo=100-days-of-python&theme=default&title_color=1F4E79&icon_color=1F4E79" />
-</a>
-
-<a href="https://github.com/Rifat-Bin-Alam/Pharmacy-System-in-PHP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rifat-Bin-Alam&repo=Pharmacy-System-in-PHP&theme=default&title_color=1F4E79&icon_color=1F4E79" />
-</a>
-
-<a href="https://github.com/Rifat-Bin-Alam/Quiz-Management-System-in-PHP">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Rifat-Bin-Alam&repo=Quiz-Management-System-in-PHP&theme=default&title_color=1F4E79&icon_color=1F4E79" />
-</a>
-
-</div>
-
----
-
-## 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Rifat-Bin-Alam&show_icons=true&theme=default&title_color=1F4E79&icon_color=1F4E79&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rifat-Bin-Alam&layout=compact&theme=default&title_color=1F4E79&hide_border=true"/>
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 <div align="center">
