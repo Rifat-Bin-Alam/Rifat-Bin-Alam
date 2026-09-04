@@ -73,40 +73,38 @@ I enjoy building practical applications, exploring new technologies, and continu
 | **Tools** | Git, GitHub, VS Code |
 
 ---
+---
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
+<a href="https://github.com/Rifat-Bin-Alam">
+  <img src="https://img.shields.io/badge/GitHub-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 <a href="https://www.linkedin.com/in/rifat-bin-alam">
-<img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.facebook.com/rifat.bin.alam.me">
+  <img src="https://img.shields.io/badge/Facebook-1F4E79?style=for-the-badge&logo=facebook&logoColor=white" />
 </a>
 
-<a href="https://www.facebook.com/rifat.bin.alam.me">
-<img src="https://img.shields.io/badge/Facebook-1F4E79?style=for-the-badge&logo=facebook&logoColor=white"/>
-</a>
+<br>
 
 <a href="https://www.instagram.com/riffy_diffy">
-<img src="https://img.shields.io/badge/Instagram-1F4E79?style=for-the-badge&logo=instagram&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Instagram-1F4E79?style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
-
 <a href="https://www.youtube.com/@RiffyDiffy_me">
-<img src="https://img.shields.io/badge/YouTube-1F4E79?style=for-the-badge&logo=youtube&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YouTube-1F4E79?style=for-the-badge&logo=youtube&logoColor=white" />
 </a>
-
 <a href="mailto:rifat5566123@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-1F4E79?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-1F4E79?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://discord.com/users/YOUR_DISCORD_ID">
+  <img src="https://img.shields.io/badge/Discord-1F4E79?style=for-the-badge&logo=discord&logoColor=white" />
 </a>
 
-</div>
-
-<br>
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=github,linkedin,discord"/>
-
-<br>
+<br><br>
 
 **Discord:** `riffydiffy`
 
