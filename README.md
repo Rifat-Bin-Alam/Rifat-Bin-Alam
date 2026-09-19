@@ -4,7 +4,7 @@
 
 # Hi, I'm Rifat Bin Alam 👋
 
-### 🎓 CSE Student | 💻 Software & Web Developer | 🚀 Learning & Building
+### 🎓 CSE | 💻 Software & Web Developer | 🚀 Learning & Building
 
 <p>
   <a href="https://github.com/Rifat-Bin-Alam">
