@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Rifat%20Bin%20Alam&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20Student%20%7C%20Developer&descAlignY=58&descSize=18&descColor=DCE6F1"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=180&section=header&text=Rifat%20Bin%20Alam&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=CSE%20Student%20%7C%20Backend%20Developer&descAlignY=58&descSize=18&descColor=DCE6F1"/>
 
 # Hi, I'm Rifat Bin Alam 👋
 
