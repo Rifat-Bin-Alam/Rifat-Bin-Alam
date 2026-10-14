@@ -10,6 +10,9 @@
   <a href="https://github.com/Rifat-Bin-Alam">
     <img src="https://img.shields.io/badge/GitHub-Rifat--Bin--Alam-1F4E79?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
+  <a href="https://rifat-bin-alam.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20Site-1F4E79?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 </div>
@@ -24,6 +27,7 @@ I enjoy building practical applications, exploring new technologies, and continu
 
 - 🎓 Computer Science & Engineering Student
 - 💻 Interested in Software & Web Development
+- 🌐 Check out my work on my **[Portfolio](https://rifat-bin-alam.vercel.app/)**
 - 🌱 Continuously learning and improving
 - 🚀 Building projects and gaining hands-on experience
 - 🤝 Open to collaboration and learning opportunities
@@ -73,17 +77,20 @@ I enjoy building practical applications, exploring new technologies, and continu
 | **Tools** | Git, GitHub, VS Code |
 
 ---
----
 
 ## 🌐 Connect With Me
 
 <div align="center">
 
+<a href="https://rifat-bin-alam.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
 <a href="https://github.com/Rifat-Bin-Alam">
   <img src="https://img.shields.io/badge/GitHub-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/rifat-bin-alam">
-  <img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn Logo" />
+  <img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNUMzIDMuODkgMy44OSAzIDUgM2gxNHptLS41IDE1LjV2LTUuMyAwLTIuOC0xLjUtNC4xLTMuNS00LjEtMS42IDAtMi40LjktMi44IDEuNXYtMS4zaC0yLjd2OS4yaDIuOHYtNS4xYzAtMS4zLjItMi42IDEuOS0yLjYgMS42IDAgMS42IDEuNSAxLjYgMi43djVoMi43ek02LjkgOC4zYzEuMSAwIDEuOC0uOCAxLjgtMS44IDAtMS0uNy0xLjgtMS44LTEuOC0xIDAtMS44LjgtMS44IDEuOCAwIDEgLjggMS44IDEuOCAxLjh6bTEuNCAxMC4yVjkuM0g1LjV2OS4yaDIuOHoiLz48L3N2Zz4=&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/rifat.bin.alam.me">
   <img src="https://img.shields.io/badge/Facebook-1F4E79?style=for-the-badge&logo=facebook&logoColor=white" />
@@ -106,7 +113,7 @@ I enjoy building practical applications, exploring new technologies, and continu
 
 <br><br>
 
-**Discord:** `riffydiffy`
+**Discord:** `riffydiffy` &nbsp;|&nbsp; **Portfolio:** [rifat-bin-alam.vercel.app](https://rifat-bin-alam.vercel.app/)
 
 </div>
 
@@ -119,4 +126,3 @@ I enjoy building practical applications, exploring new technologies, and continu
 <img src="https://capsule-render.vercel.app/api?type=waving&color=1F4E79&height=100&section=footer"/>
 
 </div>
-
