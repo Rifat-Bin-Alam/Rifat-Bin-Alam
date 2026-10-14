@@ -19,24 +19,28 @@
 
 ---
 
+<div align="center">
+
 ## 👨‍💻 About Me
 
 I'm a Computer Science & Engineering student passionate about **software development, web technologies, and problem solving**.
 
 I enjoy building practical applications, exploring new technologies, and continuously improving my development skills.
 
-- 🎓 Computer Science & Engineering Student
-- 💻 Interested in Software & Web Development
-- 🌐 Check out my work on my **[Portfolio](https://rifat-bin-alam.vercel.app/)**
-- 🌱 Continuously learning and improving
-- 🚀 Building projects and gaining hands-on experience
-- 🤝 Open to collaboration and learning opportunities
+🎓 Computer Science & Engineering Student<br>
+💻 Interested in Software & Web Development<br>
+🌐 Check out my work on my **[Portfolio](https://rifat-bin-alam.vercel.app/)**<br>
+🌱 Continuously learning and improving<br>
+🚀 Building projects and gaining hands-on experience<br>
+🤝 Open to collaboration and learning opportunities
+
+</div>
 
 ---
 
-## 🛠️ Languages & Technologies
-
 <div align="center">
+
+## 🛠️ Languages & Technologies
 
 ### Programming Languages
 
@@ -65,10 +69,12 @@ I enjoy building practical applications, exploring new technologies, and continu
 
 ---
 
+<div align="center">
+
 ## 💻 Tech Stack
 
 | Category | Technologies |
-|----------|--------------|
+| :---: | :---: |
 | **Languages** | C, C++, C#, Python, PHP |
 | **Frontend** | HTML, CSS, Bootstrap, JavaScript, React |
 | **Backend** | PHP, Node.js, Express.js, ASP.NET MVC |
@@ -76,11 +82,13 @@ I enjoy building practical applications, exploring new technologies, and continu
 | **Full Stack** | MERN Stack |
 | **Tools** | Git, GitHub, VS Code |
 
+</div>
+
 ---
 
-## 🌐 Connect With Me
-
 <div align="center">
+
+## 🌐 Connect With Me
 
 <a href="https://rifat-bin-alam.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-1F4E79?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -89,7 +97,7 @@ I enjoy building practical applications, exploring new technologies, and continu
   <img src="https://img.shields.io/badge/GitHub-1F4E79?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 <a href="https://www.linkedin.com/in/rifat-bin-alam">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="28" alt="LinkedIn Logo" />
+  
   <img src="https://img.shields.io/badge/LinkedIn-1F4E79?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgZmlsbD0id2hpdGUiPjxwYXRoIGQ9Ik0xOSAzYTIgMiAwIDAgMSAyIDJ2MTRhMiAyIDAgMCAxLTIgMkg1YTIgMiAwIDAgMS0yLTJWNUMzIDMuODkgMy44OSAzIDUgM2gxNHptLS41IDE1LjV2LTUuMyAwLTIuOC0xLjUtNC4xLTMuNS00LjEtMS42IDAtMi40LjktMi44IDEuNXYtMS4zaC0yLjd2OS4yaDIuOHYtNS4xYzAtMS4zLjItMi42IDEuOS0yLjYgMS42IDAgMS42IDEuNSAxLjYgMi43djVoMi43ek02LjkgOC4zYzEuMSAwIDEuOC0uOCAxLjgtMS44IDAtMS0uNy0xLjgtMS44LTEuOC0xIDAtMS44LjgtMS44IDEuOCAwIDEgLjggMS44IDEuOCAxLjh6bTEuNCAxMC4yVjkuM0g1LjV2OS4yaDIuOHoiLz48L3N2Zz4=&logoColor=white" />
 </a>
 <a href="https://www.facebook.com/rifat.bin.alam.me">
